@@ -80,9 +80,8 @@ node_modules
 2. DI VPS (Buka Putty/Terminal)
 Ketik perintah ini secara berurutan:
 # 1. Download kode dari Github kamu
-git clone https://github.com/USERNAME_KAMU/NAMA_REPO.git
-cd NAMA_REPO
-
+git clone https://github.com/Fannstores/topapsaldo.git
+cd topapsaldo
 # 2. Install semua bahan
 npm install
 
